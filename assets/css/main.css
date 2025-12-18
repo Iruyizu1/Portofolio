@@ -97,7 +97,7 @@ dfn {
     font-style: italic
 }
 p {
-    color: #FF9C73;
+    color: #000;
 }
 .lt1{
     text-align: justify;
@@ -1951,4 +1951,5 @@ body {
     max-width: 300px; /* Menentukan ukuran maksimal lebar */
     width: 100%; /* Lebar bisa disesuaikan secara proporsional */
     margin-left: 30%;
+
   }
